@@ -1,0 +1,9 @@
+[import](common.lg)
+
+# SendActivity_r1ieVe()
+[Activity
+    Text = ${SendActivity_r1ieVe_text()}
+]
+
+# SendActivity_r1ieVe_text()
+- In dialog 2
